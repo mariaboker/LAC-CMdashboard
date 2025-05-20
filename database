@@ -1,101 +1,93 @@
 Case ID,Patient Name,Disease,Program,Priority,SPA,Supervisor Name,Investigator Name,Type,Status,Date Opened
-CASE-1000,Jesse Kennedy,Measles,VPDC,2,7,Christopher Harmon,Kristina Nolan DDS,case,Returned (by Supervisor),2024-03-20
-CASE-1001,Jason Kaufman,Tuberculosis,Tb,2,6,John Hoffman,Christopher Franklin,case,Returned (by Supervisor),2024-04-11
-CASE-1002,Stephanie Richard,Mumps,VPDC,5,6,Amber Davis,Carolyn Watson,outbreak,Open,2024-03-14
-CASE-1003,Amy Price,Syphilis,STD,4,2,Kyle Long,Phillip Obrien,case,To AMD (under review),2024-03-23
-CASE-1004,Carol Brown,Chlamydia,STD,1,7,Christopher Harmon,Michael Sanchez,case,Returned (by Supervisor),2024-04-15
-CASE-1005,Autumn Ball,Tuberculosis,Tb,1,5,David Hebert,Cindy Rush,outbreak,Open,2024-04-19
-CASE-1006,Richard Hutchinson,Chlamydia,STD,5,5,Matthew May,Cindy Rush,case,Open,2024-01-12
-CASE-1007,Sonya Hudson,Mumps,VPDC,3,1,Christopher Compton,Melanie Jones,case,To Supervisor (under review),2024-02-07
-CASE-1008,April Saunders,Syphilis,STD,2,4,Frank Webb,Thomas Yang,case,Open,2024-02-27
-CASE-1009,Jerry Morgan,Hepatitis A,ACD,2,3,Virginia Adams,David Phillips,case,Reassign,2024-03-13
-CASE-1010,Nancy Sandoval,Hepatitis A,ACD,2,8,Kellie Jenkins,Michelle Rose,case,To Supervisor (under review),2024-04-01
-CASE-1011,Travis Rose,Chlamydia,STD,2,4,Frank Webb,Thomas Yang,case,Returned (by AMD),2024-03-25
-CASE-1012,Steven Sanders,Chlamydia,STD,2,8,Emily Davenport,Caitlin Gallagher,case,Open,2024-04-01
-CASE-1013,Sara Fleming,Chlamydia,STD,1,5,Matthew May,Jason Brooks,case,Open,2024-03-29
-CASE-1014,Ronald Cooper,COVID-19,ACD,3,1,Christopher Compton,Kathryn Gomez,case,New PHN (assigned),2024-02-24
-CASE-1015,Sherry Kirk,Syphilis,STD,4,7,Christopher Harmon,Jesus Nichols,case,Open,2024-04-15
-CASE-1016,Karen Bryant,Chlamydia,STD,1,1,Jason Mooney DDS,Mary Gillespie,case,New PHN (assigned),2024-02-26
-CASE-1017,Peter Collins,Measles,VPDC,3,8,Emily Davenport,Arthur Taylor,outbreak,New PHN (assigned),2024-03-29
-CASE-1018,Catherine Briggs,Hepatitis B,ACD,4,3,Virginia Adams,Ashley Jordan,case,Open,2024-04-29
-CASE-1019,Kent Deleon,Hepatitis B,ACD,5,5,Matthew May,Emily Wilkerson,case,Open,2024-04-05
-CASE-1020,Stephanie Long,Chlamydia,STD,1,3,Virginia Adams,Ashley Jordan,case,To Supervisor (under review),2024-03-26
-CASE-1021,Morgan Meyers,Tuberculosis,Tb,3,7,Christopher Harmon,Kristina Nolan DDS,case,New Supervisor (assigned),2024-04-03
-CASE-1022,Stephanie Wells,Chlamydia,STD,2,6,Amber Davis,Katherine Collins,case,New Supervisor (assigned),2024-04-21
-CASE-1023,Anthony Simmons,Chlamydia,STD,2,8,Kellie Jenkins,Michelle Rose,case,Closed,2024-02-03
-CASE-1024,Stephanie Nelson,COVID-19,ACD,5,6,Amber Davis,Christopher Franklin,outbreak,Open,2024-02-01
-CASE-1025,Alvin Reyes,Tuberculosis,Tb,3,3,Virginia Adams,Charles Sanchez,outbreak,Open,2024-04-13
-CASE-1026,Daniel Flores,COVID-19,ACD,4,7,Mason Warner,Michael Carlson,case,Closed,2024-01-21
-CASE-1027,Terry Garrett,Mumps,VPDC,1,2,Amy Velazquez,Natalie Diaz,outbreak,Open,2024-02-14
-CASE-1028,Thomas Schroeder,Tuberculosis,Tb,5,1,Jason Mooney DDS,Tina Boone,case,To Supervisor (under review),2024-04-04
-CASE-1029,Heather Moore,Mumps,VPDC,3,8,Emily Davenport,Michelle Rose,case,Returned (to Program),2024-01-09
-CASE-1030,Christina Henry,Measles,VPDC,5,8,Kellie Jenkins,Michelle Rose,case,Open,2024-03-04
-CASE-1031,Elizabeth Taylor,Hepatitis A,ACD,4,7,Christopher Harmon,Brittany Martinez,outbreak,PHI Support Requested,2024-04-25
-CASE-1032,Glenn Medina,Hepatitis B,ACD,1,2,Amy Velazquez,Phillip Obrien,case,Approved (by AMD),2024-03-02
-CASE-1033,Alexander Kim,Tuberculosis,Tb,4,6,John Hoffman,Shannon Cannon,case,Returned (by Investigator),2024-01-07
-CASE-1034,David Weber,Chlamydia,STD,5,8,Kellie Jenkins,Donna Hill,case,Open,2024-04-06
-CASE-1035,Joshua Harris,Tuberculosis,Tb,1,7,Christopher Harmon,Jesus Nichols,case,Open,2024-03-14
-CASE-1036,Angela Le,Measles,VPDC,1,2,Amy Velazquez,Joshua Zuniga,case,Open,2024-01-18
-CASE-1037,Leroy Holden,Hepatitis A,ACD,4,3,Virginia Adams,Megan Hawkins,case,Returned (by Supervisor),2024-02-16
-CASE-1038,Ryan Gardner,Hepatitis A,ACD,3,3,Tony Adams,Megan Hawkins,case,New PHN (assigned),2024-02-05
-CASE-1039,Miranda Robinson,Measles,VPDC,5,1,Jason Mooney DDS,Kayla Avila,case,New PHN (assigned),2024-04-26
-CASE-1040,Paul Dickson,Chlamydia,STD,2,1,Christopher Compton,Tina Boone,case,New Supervisor (assigned),2024-04-03
-CASE-1041,Jasmin Bennett,COVID-19,ACD,5,5,Matthew May,Annette Hall,case,Returned (by AMD),2024-01-05
-CASE-1042,Jack Spencer,Syphilis,STD,5,2,Kyle Long,Joshua Zuniga,case,Approved (by AMD),2024-04-08
-CASE-1043,Frank Thomas,Syphilis,STD,1,6,Amber Davis,Shannon Cannon,case,To AMD (under review),2024-02-18
-CASE-1044,Chelsea Arias,Mumps,VPDC,1,6,Amber Davis,Katherine Collins,case,Open,2024-03-23
-CASE-1045,Alvin Phillips,Hepatitis B,ACD,2,8,Emily Davenport,Caitlin Gallagher,case,Open,2024-02-21
-CASE-1046,Stephanie Mckenzie,Syphilis,STD,3,7,Christopher Harmon,Michael Carlson,case,Returned (by Investigator),2024-03-14
-CASE-1047,Heather Martin,Syphilis,STD,4,7,Christopher Harmon,Kristina Nolan DDS,outbreak,To Supervisor (under review),2024-03-12
-CASE-1048,Nicole Marshall,COVID-19,ACD,5,2,Amy Velazquez,Joseph White,case,Returned (by AMD),2024-02-27
-CASE-1049,Barry Lynn,Syphilis,STD,1,4,Heidi Stevenson,Thomas Yang,case,Open,2024-01-05
-CASE-1050,Sandra Freeman DDS,COVID-19,ACD,3,1,Jason Mooney DDS,Melanie Jones,case,Returned (to Program),2024-02-04
-CASE-1051,Edward Morales,Tuberculosis,Tb,5,4,Heidi Stevenson,Thomas Yang,outbreak,Open,2024-03-13
-CASE-1052,Oscar Benson,Hepatitis B,ACD,2,7,Christopher Harmon,Michael Carlson,case,Returned (by Supervisor),2024-03-07
-CASE-1053,Randall Harris,Syphilis,STD,3,1,Christopher Compton,Kayla Avila,case,Open,2024-01-04
-CASE-1054,Stacey Martin,Measles,VPDC,1,6,John Hoffman,Shannon Cannon,outbreak,New Supervisor (assigned),2024-03-20
-CASE-1055,Barbara Dawson,Tuberculosis,Tb,5,2,Amy Velazquez,Phillip Obrien,case,Returned (by AMD),2024-04-29
-CASE-1056,Linda Cuevas,Chlamydia,STD,4,3,Virginia Adams,Ashley Jordan,case,Open,2024-01-12
-CASE-1057,Michael Barr,Syphilis,STD,1,2,Kyle Long,Joseph White,case,Open,2024-01-05
-CASE-1058,Monica Esparza,Syphilis,STD,4,2,Kyle Long,Joshua Zuniga,case,Returned (to Program),2024-02-05
-CASE-1059,Michelle Johnson,Measles,VPDC,1,1,Christopher Compton,Mary Gillespie,case,Open,2024-02-15
-CASE-1060,Melissa Taylor,Hepatitis B,ACD,5,8,Kellie Jenkins,Donna Hill,case,Open,2024-02-24
-CASE-1061,Jennifer Brock,COVID-19,ACD,1,6,John Hoffman,Carolyn Watson,outbreak,Reassign,2024-03-26
-CASE-1062,Chad Ellis,Chlamydia,STD,2,3,Tony Adams,Charles Sanchez,case,Returned (to Program),2024-01-23
-CASE-1063,Melanie Jordan,Measles,VPDC,4,1,Jason Mooney DDS,Melanie Jones,case,Approved (by AMD),2024-02-23
-CASE-1064,Michael Cox,Tuberculosis,Tb,3,8,Kellie Jenkins,Donna Hill,outbreak,Open,2024-03-30
-CASE-1065,Samuel Farmer,Chlamydia,STD,2,1,Christopher Compton,Melanie Jones,outbreak,Approved (by AMD),2024-02-17
-CASE-1066,Anthony Jimenez,COVID-19,ACD,4,3,Virginia Adams,Gregory Brown,outbreak,Approved (by AMD),2024-03-29
-CASE-1067,Kimberly Roberts,Hepatitis B,ACD,2,3,Virginia Adams,Ashley Jordan,case,Returned (by Investigator),2024-04-27
-CASE-1068,Richard Keller,Chlamydia,STD,4,3,Tony Adams,David Phillips,case,Reassign,2024-02-29
-CASE-1069,Lisa Fleming,COVID-19,ACD,3,2,Kyle Long,Joseph White,outbreak,Open,2024-04-23
-CASE-1070,Jessica Casey,Tuberculosis,Tb,1,7,Mason Warner,Kristina Nolan DDS,case,Approved (by AMD),2024-01-16
-CASE-1071,Brenda Torres,COVID-19,ACD,3,5,David Hebert,Michael Allen,case,To AMD (under review),2024-03-23
-CASE-1072,Amy Rojas,Hepatitis A,ACD,3,1,Jason Mooney DDS,Mary Gillespie,case,Open,2024-04-16
-CASE-1073,William Roberts,Hepatitis B,ACD,3,8,Kellie Jenkins,Arthur Taylor,case,Open,2024-02-08
-CASE-1074,Amy Allen,Measles,VPDC,3,1,Christopher Compton,Tina Boone,case,To Supervisor (under review),2024-03-03
-CASE-1075,Michael Harris,Hepatitis A,ACD,3,1,Christopher Compton,Kathryn Gomez,outbreak,Returned (by Supervisor),2024-04-02
-CASE-1076,James Villarreal,COVID-19,ACD,5,2,Kyle Long,Carolyn Calhoun,case,Open,2024-01-07
-CASE-1077,Mrs. Deborah Martin DVM,Mumps,VPDC,5,5,Matthew May,Cindy Rush,case,PHI Support Requested,2024-01-21
-CASE-1078,Bradley Guzman,Tuberculosis,Tb,4,8,Emily Davenport,Arthur Taylor,case,Returned (to Program),2024-01-16
-CASE-1079,Matthew Parker,Syphilis,STD,1,2,Amy Velazquez,Phillip Obrien,case,Open,2024-04-07
-CASE-1080,Tanya Davis,Hepatitis A,ACD,5,1,Jason Mooney DDS,Melanie Jones,case,Open,2024-03-20
-CASE-1081,Jason Cardenas,Syphilis,STD,5,1,Jason Mooney DDS,Melanie Jones,case,Open,2024-04-15
-CASE-1082,Brian Choi,Hepatitis B,ACD,1,1,Christopher Compton,Tina Boone,case,Open,2024-03-15
-CASE-1083,Trevor Hansen,Syphilis,STD,5,3,Tony Adams,Ashley Jordan,outbreak,Returned (by Investigator),2024-04-04
-CASE-1084,James Martin,Hepatitis A,ACD,4,5,David Hebert,Annette Hall,case,Reassign,2024-01-16
-CASE-1085,Joshua Wilson,Syphilis,STD,1,6,John Hoffman,Shannon Cannon,case,New Supervisor (assigned),2024-02-27
-CASE-1086,Jennifer Schroeder,Hepatitis A,ACD,3,6,Amber Davis,Katherine Collins,outbreak,New Supervisor (assigned),2024-02-07
-CASE-1087,Travis Gonzalez,Hepatitis A,ACD,5,8,Emily Davenport,Caitlin Gallagher,case,Open,2024-02-23
-CASE-1088,Juan Miller,Hepatitis B,ACD,5,8,Kellie Jenkins,Arthur Taylor,case,Open,2024-03-22
-CASE-1089,Renee Gray,Chlamydia,STD,3,4,Heidi Stevenson,Barbara Arroyo,case,New PHN (assigned),2024-04-22
-CASE-1090,Cody Hobbs,Hepatitis A,ACD,5,6,John Hoffman,Katherine Collins,case,Open,2024-04-28
-CASE-1091,Linda Maxwell,Mumps,VPDC,4,1,Christopher Compton,Tina Boone,case,Returned (by Supervisor),2024-02-10
-CASE-1092,Daniel Ward,Tuberculosis,Tb,3,4,Heidi Stevenson,Barbara Arroyo,case,Approved (by AMD),2024-03-03
-CASE-1093,Jessica Neal,Syphilis,STD,5,7,Christopher Harmon,Kristina Nolan DDS,case,Returned (by Investigator),2024-02-09
-CASE-1094,Angela Richardson,Hepatitis B,ACD,1,1,Christopher Compton,Kayla Avila,case,Returned (by Investigator),2024-01-06
-CASE-1095,Robert Collins,Syphilis,STD,3,1,Jason Mooney DDS,Melanie Jones,case,Open,2024-02-05
-CASE-1096,Terri Swanson,Syphilis,STD,3,2,Amy Velazquez,Joseph White,outbreak,Approved (by AMD),2024-01-20
-CASE-1097,Teresa Reyes,Tuberculosis,Tb,3,7,Christopher Harmon,Kristina Nolan DDS,case,Open,2024-04-25
-CASE-1098,Bernard Lewis,Tuberculosis,Tb,2,5,David Hebert,Annette Hall,outbreak,Open,2024-01-09
-CASE-1099,Kelli Adams,Chlamydia,STD,5,3,Virginia Adams,Megan Hawkins,case,Returned (by AMD),2024-02-06
+4454380,Henry4 Test,Hepatitis A,ACD,3,4,Sharon Cacayan,,case,New Supervisor (assigned),2024-05-01 00:00:00
+4454392,PHNS Test,Hepatitis A,ACD,4,1,Megan Escobar,Sean Gardner,case,To Supervisor (under review),2024-05-01 00:00:00
+AUTO-5000,Heather King,Syphilis,DHSP,5,3,Cindy Owens,Matthew Brooks,case,Reassign,2024-02-24
+AUTO-5001,Christina Jones,Measles,VPH,4,3,Lee Reed,Jacob Woodard,outbreak,PHI Support Requested,2024-04-07
+AUTO-5002,Bonnie Beltran,COVID-19,ACD,4,7,Dustin Johnson,Gregg Oliver,outbreak,New PHN (assigned),2024-01-14
+AUTO-5003,Tracy Orozco,Chlamydia,DHSP,4,5,Matthew Lyons,Kristen Cummings,case,Closed,2024-04-30
+AUTO-5004,Michael Perry,Tuberculosis,TBCP,5,8,Steven Duncan,Michael Short,outbreak,Returned (by Investigator),2024-04-20
+AUTO-5005,Isabel Williams,Chlamydia,DHSP,1,6,Jasmine Reid,Willie Goodwin,outbreak,Returned (by Supervisor),2024-02-10
+AUTO-5006,Scott Davies,Syphilis,DHSP,2,5,Joshua Phillips,Brian Mcdonald,case,New PHN (assigned),2024-04-07
+AUTO-5007,Stanley Andrade,Tuberculosis,TBCP,3,2,Sarah Lloyd,Jessica Jackson,case,PHI Support Requested,2024-04-06
+AUTO-5008,Jamie Valdez,Mumps,VPH,2,5,Shawn Baldwin,Javier Dixon,outbreak,Returned (by Investigator),2024-03-15
+AUTO-5009,Shelia Perez,Measles,VPH,2,7,Eric Vazquez,Kimberly Thomas,outbreak,PHI Support Requested,2024-03-18
+AUTO-5010,Carlos Murphy,Chlamydia,DHSP,4,1,Benjamin Castillo,Kim Jones,outbreak,PHI Support Requested,2024-03-13
+AUTO-5011,Patricia Gonzalez,Tuberculosis,TBCP,4,7,Jason Livingston,Geoffrey Parker,outbreak,Returned (by Supervisor),2024-01-13
+AUTO-5012,Dr. Jose Hernandez,Chlamydia,DHSP,5,8,Dr. Michael Gonzalez,Jonathan Ward,case,New PHN (assigned),2024-01-02
+AUTO-5013,Melissa Riley,Mumps,VPH,2,4,Ronald Farley,Brianna Hubbard,outbreak,New Supervisor (assigned),2024-01-02
+AUTO-5014,Lisa Hill,Tuberculosis,TBCP,3,5,Amanda Martin,Chase Scott,outbreak,New Supervisor (assigned),2024-01-05
+AUTO-5015,Crystal Reeves,COVID-19,ACD,3,5,Laura Diaz,Mitchell Gentry,case,New PHN (assigned),2024-03-05
+AUTO-5016,Dana Butler,Hepatitis B,ACD,4,1,Patrick Smith,Lisa Jackson DVM,case,New Supervisor (assigned),2024-02-25
+AUTO-5017,Alicia Herring,COVID-19,ACD,1,4,Justin Mitchell II,Elizabeth Henderson,outbreak,New PHN (assigned),2024-03-06
+AUTO-5018,Kristin Jones,Syphilis,DHSP,4,7,Daniel Johnson,Carl Morgan,outbreak,To Supervisor (under review),2024-03-19
+AUTO-5019,Cathy Davis,Mumps,VPH,2,5,Anthony Montgomery,Paula Warren,case,Returned (by Supervisor),2024-04-27
+AUTO-5020,Emma White,Tuberculosis,TBCP,1,3,Rose Garner,Mary Schmidt,case,New PHN (assigned),2024-03-19
+AUTO-5021,James Peterson,Hepatitis B,ACD,4,8,Jill Robinson,Helen Washington,case,Returned (to Program),2024-04-18
+AUTO-5022,Christine Erickson,Mumps,VPH,1,4,Jessica Wilkinson,Erica Palmer,outbreak,Returned (by Investigator),2024-02-07
+AUTO-5023,Jason Hansen,Tuberculosis,TBCP,1,4,Patricia Douglas,Kaitlyn Davis,outbreak,PHI Support Requested,2024-03-12
+AUTO-5024,Riley Reilly,Tuberculosis,TBCP,2,6,Ashley Wallace,Jason Turner,outbreak,To Supervisor (under review),2024-03-28
+AUTO-5025,Carolyn Hammond,COVID-19,ACD,4,2,Sandra Smith,Stephen Snyder,case,Closed,2024-03-08
+AUTO-5026,Madison Alexander,Hepatitis A,ACD,2,1,Carrie Collins,Richard Andrews,outbreak,Reassign,2024-02-05
+AUTO-5027,Eric Williams MD,COVID-19,ACD,1,2,Ryan Garcia,Christopher Poole,outbreak,New Supervisor (assigned),2024-04-24
+AUTO-5028,Brent Simpson,Hepatitis A,ACD,3,1,Nicholas Jones,Katherine Guzman,case,Returned (by Supervisor),2024-01-19
+AUTO-5029,Tina Maddox,Hepatitis A,ACD,3,6,Amanda Paul,William Smith,case,Reassign,2024-04-01
+AUTO-5030,Michael Morris,Measles,VPH,2,7,William Berry,Joseph Blake,outbreak,Closed,2024-01-01
+AUTO-5031,Danielle Gordon,Syphilis,DHSP,1,2,Robert Smith,Brian Hamilton,case,Returned (by Investigator),2024-04-11
+AUTO-5032,Shawn Washington,COVID-19,ACD,5,3,Mary Taylor,Sally Salazar,outbreak,New Supervisor (assigned),2024-02-17
+AUTO-5033,Edward Fleming,Measles,VPH,4,6,Kerry Lewis,Gary Morris,outbreak,To Supervisor (under review),2024-04-20
+AUTO-5034,Shelia Johnston,Measles,VPH,4,4,Sheri Thornton,Kendra Bentley,outbreak,Reassign,2024-04-24
+AUTO-5035,Dr. Gregory Wilson Jr.,COVID-19,ACD,4,8,Lisa Crawford,Monica Martin,outbreak,Returned (by Investigator),2024-01-14
+AUTO-5036,Russell Roberts,Syphilis,DHSP,1,3,Stephen Curtis,Donna Mann,outbreak,New PHN (assigned),2024-03-09
+AUTO-5037,Beth Mclean,Chlamydia,DHSP,4,3,Taylor Gonzalez,Deborah Cowan,case,Returned (by Supervisor),2024-04-05
+AUTO-5038,Anna Vasquez,Hepatitis B,ACD,4,7,Diana Warren,Elizabeth Reeves,case,To Supervisor (under review),2024-04-08
+AUTO-5039,Christine Huerta,Hepatitis A,ACD,4,7,Keith Smith,Amanda Melton,case,To Supervisor (under review),2024-03-19
+AUTO-5040,Katherine Glover,Syphilis,DHSP,4,5,Elizabeth Smith,Jeremy Beasley,outbreak,Closed,2024-02-01
+AUTO-5041,Larry Wiley,Measles,VPH,3,4,Leonard Thomas,Karen Washington,outbreak,Open,2024-03-14
+AUTO-5042,Tanya Moore,COVID-19,ACD,4,3,Richard Dunn,Donald Barker,outbreak,Reassign,2024-03-23
+AUTO-5043,David Guerrero,Measles,VPH,5,7,Karen Webb,Kimberly Hall,case,Open,2024-03-07
+AUTO-5044,Peter Tucker,COVID-19,ACD,2,8,Tammy Ward,Travis James,case,To Supervisor (under review),2024-03-27
+AUTO-5045,Roger Villanueva,Syphilis,DHSP,2,1,Micheal Jacobs,Kelsey Mcdonald,outbreak,Returned (to Program),2024-01-25
+AUTO-5046,Meghan Moore,Chlamydia,DHSP,2,2,Brenda Palmer,Carrie Miller,case,New PHN (assigned),2024-01-04
+AUTO-5047,Charles Miller,COVID-19,ACD,1,8,Mary Parks DDS,Louis Brown,outbreak,Returned (by Supervisor),2024-03-26
+AUTO-5048,Howard Hamilton,Tuberculosis,TBCP,4,5,Cody Neal,Cheryl Tucker,outbreak,Open,2024-03-17
+AUTO-5049,Noah Gaines,Measles,VPH,4,5,Richard Wright,Courtney Bowman,outbreak,Open,2024-01-23
+AUTO-5050,Lisa Brennan,Syphilis,DHSP,5,5,Jason Tucker,Jessica Roberts,case,New Supervisor (assigned),2024-02-19
+AUTO-5051,Amber Rojas,Chlamydia,DHSP,2,8,Nicole Williams,Angela Case,case,Open,2024-01-11
+AUTO-5052,Lisa Ramos,Mumps,VPH,4,1,Lauren Jackson,Margaret Martinez,case,PHI Support Requested,2024-01-05
+AUTO-5053,Samuel Hoffman,Syphilis,DHSP,4,6,Robin Newman,Melissa Hess,outbreak,Reassign,2024-04-24
+AUTO-5054,Jessica Gillespie,Measles,VPH,4,4,Daniel Flores,Ana Wells,outbreak,Reassign,2024-02-08
+AUTO-5055,Danielle Coleman,Syphilis,DHSP,1,5,Luis Hall,Elizabeth Roth,outbreak,Returned (by Investigator),2024-04-17
+AUTO-5056,Erik Hughes,COVID-19,ACD,4,1,Joanne Swanson,Brittany Gonzalez,outbreak,PHI Support Requested,2024-03-25
+AUTO-5057,Denise Kelly,Syphilis,DHSP,3,5,Jake Smith,Jennifer Wilson,case,To Supervisor (under review),2024-01-16
+AUTO-5058,Richard Smith,COVID-19,ACD,5,2,James Smith,Breanna Rowland,outbreak,PHI Support Requested,2024-03-27
+AUTO-5059,David Smith,Chlamydia,DHSP,3,6,Timothy Nelson,Andrew Dougherty,case,Closed,2024-01-25
+AUTO-5060,Angela Smith,Mumps,VPH,2,1,Joseph Hernandez,Miguel Salas,case,Reassign,2024-01-24
+AUTO-5061,Yvonne Hale,Hepatitis B,ACD,2,8,Alyssa Smith,Andrew Little,case,Open,2024-04-07
+AUTO-5062,Luis Sandoval,Chlamydia,DHSP,1,1,Jaime Arnold,Justin Mendoza,case,New PHN (assigned),2024-01-20
+AUTO-5063,Linda Robinson,Syphilis,DHSP,1,8,Jordan Brown,Ryan Waller,outbreak,Returned (by Supervisor),2024-01-07
+AUTO-5064,Alicia Wilson,Hepatitis A,ACD,4,1,Alisha Rodriguez,Jacob Brown,outbreak,Returned (by Investigator),2024-03-28
+AUTO-5065,Christopher Kane,COVID-19,ACD,2,1,Nicholas Vaughn,Miguel Smith,case,Returned (to Program),2024-04-21
+AUTO-5066,James Walker,Chlamydia,DHSP,1,1,Whitney Burnett,Jason Russell,case,Closed,2024-04-30
+AUTO-5067,Mary Stevenson,Chlamydia,DHSP,1,5,Lisa Price,Kathryn Jennings,case,New Supervisor (assigned),2024-02-10
+AUTO-5068,Margaret Williams,COVID-19,ACD,4,2,Drew Nguyen,Rachel Crawford,case,Returned (to Program),2024-03-27
+AUTO-5069,Debra Henderson DVM,COVID-19,ACD,2,8,Stephanie Hooper,John Cross,case,PHI Support Requested,2024-03-27
+AUTO-5070,Mary Duke,Hepatitis B,ACD,3,3,Sarah Martin MD,Summer Nichols,case,New PHN (assigned),2024-03-31
+AUTO-5071,Austin Norton,Tuberculosis,TBCP,1,2,Mary Campos,Bryan Ramirez,case,New Supervisor (assigned),2024-04-06
+AUTO-5072,Ryan Phillips,Hepatitis A,ACD,5,8,William Marsh,Courtney Vaughn,outbreak,Closed,2024-03-14
+AUTO-5073,Rachel Ramirez,Hepatitis B,ACD,1,5,Sandra Adams,Sarah Jones,case,New Supervisor (assigned),2024-01-15
+AUTO-5074,Kim Lloyd,Tuberculosis,TBCP,4,5,David Cain,Thomas Lee,outbreak,New Supervisor (assigned),2024-04-17
+AUTO-5075,Virginia Fleming,Mumps,VPH,4,5,Benjamin Hawkins,Lisa Russell,outbreak,New Supervisor (assigned),2024-04-22
+AUTO-5076,Barbara Yang,Measles,VPH,3,2,Troy Padilla,Michael Terry,case,PHI Support Requested,2024-03-27
+AUTO-5077,David Watts,Mumps,VPH,3,7,William Schmidt,Marilyn Brown,case,New Supervisor (assigned),2024-01-06
+AUTO-5078,Heather Patel,Mumps,VPH,2,1,Michaela Hernandez,Stephen Hess,outbreak,New PHN (assigned),2024-02-27
+AUTO-5079,Courtney Love,Hepatitis A,ACD,4,8,David Mccormick,Dr. Jennifer Butler MD,case,Returned (to Program),2024-01-14
+AUTO-5080,Travis Mccoy,Hepatitis B,ACD,5,5,Hannah Wilcox,Mr. David Vaughan,outbreak,Closed,2024-04-21
+AUTO-5081,Christopher Chavez,Syphilis,DHSP,2,2,Michelle Schneider,Ms. Annette Herrera,case,Returned (by Investigator),2024-04-30
+AUTO-5082,Annette Black,COVID-19,ACD,4,7,Devin Haley,Henry Gomez,outbreak,Closed,2024-02-05
+AUTO-5083,Teresa Young,Hepatitis A,ACD,2,5,Erica Greene,John Thomas,outbreak,PHI Support Requested,2024-01-25
+AUTO-5084,Amanda Brooks,Measles,VPH,2,4,Barbara Jones,Samantha Pratt,case,Open,2024-01-21
+AUTO-5085,Melissa Williams,Measles,VPH,4,2,Jordan Smith,Brian Sherman,outbreak,Returned (by Investigator),2024-01-15
+AUTO-5086,Mark Peterson,COVID-19,ACD,4,6,Kristi Blake,Jordan Myers,case,Returned (by Investigator),2024-03-12
+AUTO-5087,William Martinez,COVID-19,ACD,1,8,William Frazier,Elizabeth Nguyen,outbreak,New PHN (assigned),2024-02-17
+AUTO-5088,Christian Sanchez,Hepatitis B,ACD,5,6,Jeffrey Graham,Jennifer Berry,outbreak,Open,2024-02-03
+AUTO-5089,Nancy Warner,COVID-19,ACD,5,8,Benjamin Mitchell,Cindy Cooke,case,Returned (by Supervisor),2024-04-06
