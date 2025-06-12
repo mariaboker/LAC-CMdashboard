@@ -1,0 +1,100 @@
+Case ID,Patient Name,Disease,Program,Priority,SPA,Supervisor Name,Investigator Name,Type,Status,Date Opened,Initial Contact Date,Contact Made
+4454380,Mickey Mouse,Hepatitis A,ACD,3,4,Sharon Cacayan,,case,Open,2024-05-01,2024-05-02,on track
+1000002,Minnie Mouse,Hepatitis A,ACD,4,1,Megan Escobar,Sean Gardner,case,Open,2024-05-01,2024-05-02,on track
+1000002,Donald Duck,Hepatitis A,ACD,3,2,Bryan Lee,David Jones,case,To Supervisor (under review),2024-05-01,,past due
+1000002,Daisy Duck,Hepatitis A,ACD,3,3,Joe Gomez,Joseph Lowe,case,Open,2024-05-01,2024-05-02,on track
+1000002,Goofy,Hepatitis A,ACD,5,4,Dylan Bowman,Jodi Smith,case,Open,2024-05-01,2024-05-02,on track
+1000002,Pluto,Hepatitis A,ACD,5,5,David Schultz,Nicole Barnes,case,Open,2024-05-01,2024-05-02,on track
+1000002,Cinderella,Hepatitis A,ACD,1,6,Thomas Smith,Joseph Bass,case,Open,2024-05-01,2024-05-02,on track
+1000002,Snow White,Hepatitis A,ACD,4,7,Clinton Moore,Mark Turner,case,To Supervisor (under review),2024-05-01,2024-05-02,on track
+1000002,Belle,Hepatitis A,ACD,4,8,Matthew Johnson,Ryan Haynes,case,To Supervisor (under review),2024-05-01,,past due
+1000076,Ariel,Syphilis,DHSP,5,3,Cindy Owens,Matthew Brooks,case,Open,2024-02-24,,past due
+1000052,Jasmine,Measles,VPH,4,3,Lee Reed,Jacob Woodard,outbreak,Open,2024-04-07,2024-04-08,on track
+1000069,Mulan,COVID-19,ACD,4,7,Dustin Johnson,Gregg Oliver,outbreak,Open,2024-01-14,,past due
+1000066,Pocahontas,Chlamydia,DHSP,4,5,Matthew Lyons,Kristen Cummings,case,Open,2024-04-30,2024-05-01,on track
+1000079,Tiana,Tuberculosis,TBCP,5,8,Steven Duncan,Michael Short,outbreak,Open,2024-04-20,2024-04-21,on track
+1000000,Rapunzel,Chlamydia,DHSP,1,6,Jasmine Reid,Willie Goodwin,outbreak,Returned (by Supervisor),2024-02-10,2024-02-11,on track
+1000046,Merida,Syphilis,DHSP,2,5,Joshua Phillips,Brian Mcdonald,case,Open,2024-04-07,2024-04-08,on track
+1000018,Elsa,Tuberculosis,TBCP,3,2,Sarah Lloyd,Jessica Jackson,case,Open,2024-04-06,2024-04-07,on track
+1000057,Anna,Mumps,VPH,2,5,Shawn Baldwin,Javier Dixon,outbreak,Open,2024-03-15,2024-03-16,on track
+1000080,Moana,Measles,VPH,2,7,Eric Vazquez,Kimberly Thomas,outbreak,PHI Support Requested,2024-03-18,2024-03-19,on track
+1000009,Tinker Bell,Chlamydia,DHSP,4,1,Benjamin Castillo,Kim Jones,outbreak,Open,2024-03-13,2024-03-14,on track
+1000062,Alice,Tuberculosis,TBCP,4,7,Jason Livingston,Geoffrey Parker,outbreak,Open,2024-01-13,2024-01-14,on track
+1000059,Wendy Darling,Chlamydia,DHSP,5,8,Dr. Michael Gonzalez,Jonathan Ward,case,Open,2024-01-02,2024-01-03,on track
+1000021,Peter Pan,Mumps,VPH,2,4,Ronald Farley,Brianna Hubbard,outbreak,New Supervisor (assigned),2024-01-02,2024-01-03,on track
+1000041,Simba,Tuberculosis,TBCP,3,5,Amanda Martin,Chase Scott,outbreak,New Supervisor (assigned),2024-01-05,2024-01-06,on track
+1000068,Nala,COVID-19,ACD,3,5,Laura Diaz,Mitchell Gentry,case,New PHN (assigned),2024-03-05,2024-03-06,on track
+1000038,Timon,Hepatitis B,ACD,4,1,Patrick Smith,Lisa Jackson DVM,case,Open,2024-02-25,,past due
+1000037,Pumbaa,COVID-19,ACD,1,4,Justin Mitchell II,Elizabeth Henderson,outbreak,Open,2024-03-06,2024-03-07,on track
+1000006,Mufasa,Syphilis,DHSP,4,7,Daniel Johnson,Carl Morgan,outbreak,Open,2024-03-19,2024-03-20,on track
+1000035,Scar,Mumps,VPH,2,5,Anthony Montgomery,Paula Warren,case,Returned (by Supervisor),2024-04-27,2024-04-28,on track
+1000050,Rafiki,Tuberculosis,TBCP,1,3,Rose Garner,Mary Schmidt,case,New PHN (assigned),2024-03-19,2024-03-20,on track
+1000028,Zazu,Hepatitis B,ACD,4,8,Jill Robinson,Helen Washington,case,Open,2024-04-18,,past due
+1000023,Aladdin,Mumps,VPH,1,4,Jessica Wilkinson,Erica Palmer,outbreak,Open,2024-02-07,2024-02-08,on track
+1000049,Genie,Tuberculosis,TBCP,1,4,Patricia Douglas,Kaitlyn Davis,outbreak,PHI Support Requested,2024-03-12,2024-03-13,on track
+1000014,Jafar,Tuberculosis,TBCP,2,6,Ashley Wallace,Jason Turner,outbreak,Open,2024-03-28,2024-03-29,on track
+1000042,Abu,COVID-19,ACD,4,2,Sandra Smith,Stephen Snyder,case,Open,2024-03-08,2024-03-09,on track
+1000012,Hercules,Hepatitis A,ACD,2,1,Carrie Collins,Richard Andrews,outbreak,Open,2024-02-05,2024-02-06,on track
+1000034,Megara,COVID-19,ACD,1,2,Ryan Garcia,Christopher Poole,outbreak,New Supervisor (assigned),2024-04-24,2024-04-25,on track
+1000056,Hades,Hepatitis A,ACD,3,1,Nicholas Jones,Katherine Guzman,case,Open,2024-01-19,2024-01-20,on track
+1000085,Tarzan,Hepatitis A,ACD,3,6,Amanda Paul,William Smith,case,Open,2024-04-01,2024-04-02,on track
+1000077,Jane Porter,Measles,VPH,2,7,William Berry,Joseph Blake,outbreak,Open,2024-01-01,,past due
+1000011,Beast,Syphilis,DHSP,1,2,Robert Smith,Brian Hamilton,case,Open,2024-04-11,,past due
+1000031,Lumiere,COVID-19,ACD,5,3,Mary Taylor,Sally Salazar,outbreak,Open,2024-02-17,,past due
+1000087,Cogsworth,Measles,VPH,4,6,Kerry Lewis,Gary Morris,outbreak,Open,2024-04-20,2024-04-21,on track
+1000033,Mrs. Potts,Measles,VPH,4,4,Sheri Thornton,Kendra Bentley,outbreak,Reassign,2024-04-24,,past due
+1000001,Chip,COVID-19,ACD,4,8,Lisa Crawford,Monica Martin,outbreak,Open,2024-01-14,2024-01-15,on track
+1000053,Aurora,Syphilis,DHSP,1,3,Stephen Curtis,Donna Mann,outbreak,New PHN (assigned),2024-03-09,2024-03-10,on track
+1000005,Maleficent,Chlamydia,DHSP,4,3,Taylor Gonzalez,Deborah Cowan,case,Open,2024-04-05,,past due
+1000081,Drizella Tremaine,Hepatitis B,ACD,4,7,Diana Warren,Elizabeth Reeves,case,To Supervisor (under review),2024-04-08,2024-04-09,on track
+1000047,Anastasia Tremaine,Hepatitis A,ACD,4,7,Keith Smith,Amanda Melton,case,To Supervisor (under review),2024-03-19,2024-03-20,on track
+1000054,Lady,Syphilis,DHSP,4,5,Elizabeth Smith,Jeremy Beasley,outbreak,Open,2024-02-01,,past due
+1000064,Tramp,Measles,VPH,3,4,Leonard Thomas,Karen Washington,outbreak,Open,2024-03-14,2024-03-15,on track
+1000022,Bambi,COVID-19,ACD,4,3,Richard Dunn,Donald Barker,outbreak,Open,2024-03-23,2024-03-24,on track
+1000083,Thumper,Measles,VPH,5,7,Karen Webb,Kimberly Hall,case,Open,2024-03-07,2024-03-08,on track
+1000086,Flower,COVID-19,ACD,2,8,Tammy Ward,Travis James,case,Open,2024-03-27,2024-03-28,on track
+1000090,Dumbo,Syphilis,DHSP,2,1,Micheal Jacobs,Kelsey Mcdonald,outbreak,Open,2024-01-25,2024-01-26,on track
+1000051,Jiminy Cricket,Chlamydia,DHSP,2,2,Brenda Palmer,Carrie Miller,case,New PHN (assigned),2024-01-04,2024-01-05,on track
+1000024,Pinocchio,COVID-19,ACD,1,8,Mary Parks DDS,Louis Brown,outbreak,Open,2024-03-26,2024-03-27,on track
+1000074,Cruella de Vil,Tuberculosis,TBCP,4,5,Cody Neal,Cheryl Tucker,outbreak,Open,2024-03-17,2024-03-18,on track
+1000055,Ursula,Measles,VPH,4,5,Richard Wright,Courtney Bowman,outbreak,Open,2024-01-23,2024-01-24,on track
+1000073,Captain Hook,Syphilis,DHSP,5,5,Jason Tucker,Jessica Roberts,case,New Supervisor (assigned),2024-02-19,2024-02-20,on track
+1000061,Smee,Chlamydia,DHSP,2,8,Nicole Williams,Angela Case,case,Open,2024-01-11,2024-01-12,on track
+1000019,Fairy Godmother,Mumps,VPH,4,1,Lauren Jackson,Margaret Martinez,case,Open,2024-01-05,2024-01-06,on track
+1000032,Prince Charming,Syphilis,DHSP,4,6,Robin Newman,Melissa Hess,outbreak,Open,2024-04-24,2024-04-25,on track
+1000044,Prince Eric,Measles,VPH,4,4,Daniel Flores,Ana Wells,outbreak,Reassign,2024-02-08,2024-02-09,on track
+1000039,Prince Philip,Syphilis,DHSP,1,5,Luis Hall,Elizabeth Roth,outbreak,Open,2024-04-17,2024-04-18,on track
+1000043,Nick Wilde,COVID-19,ACD,4,1,Joanne Swanson,Brittany Gonzalez,outbreak,PHI Support Requested,2024-03-25,2024-03-26,on track
+1000065,Judy Hopps,Syphilis,DHSP,3,5,Jake Smith,Jennifer Wilson,case,Open,2024-01-16,2024-01-17,on track
+1000071,Stitch,COVID-19,ACD,5,2,James Smith,Breanna Rowland,outbreak,PHI Support Requested,2024-03-27,2024-03-28,on track
+1000078,Lilo Pelekai,Chlamydia,DHSP,3,6,Timothy Nelson,Andrew Dougherty,case,Closed,2024-01-25,2024-01-26,on track
+1000015,Nemo,Mumps,VPH,2,1,Joseph Hernandez,Miguel Salas,case,Open,2024-01-24,2024-01-25,on track
+1000088,Marlin,Hepatitis B,ACD,2,8,Alyssa Smith,Andrew Little,case,Open,2024-04-07,2024-04-08,on track
+1000072,Dory,Chlamydia,DHSP,1,1,Jaime Arnold,Justin Mendoza,case,New PHN (assigned),2024-01-20,,past due
+1000029,Mr. Incredible,Syphilis,DHSP,1,8,Jordan Brown,Ryan Waller,outbreak,Returned (by Supervisor),2024-01-07,2024-01-08,on track
+1000025,Frozone,Hepatitis A,ACD,4,1,Alisha Rodriguez,Jacob Brown,outbreak,Open,2024-03-28,2024-03-29,on track
+1000020,Edna Mode,COVID-19,ACD,2,1,Nicholas Vaughn,Miguel Smith,case,Returned (to Program),2024-04-21,2024-04-22,on track
+1000082,Violet Parr,Chlamydia,DHSP,1,1,Whitney Burnett,Jason Russell,case,Closed,2024-04-30,,past due
+1000026,Dash Parr,Chlamydia,DHSP,1,5,Lisa Price,Kathryn Jennings,case,Open,2024-02-10,2024-02-11,on track
+1000008,Jack-Jack Parr,COVID-19,ACD,4,2,Drew Nguyen,Rachel Crawford,case,Open,2024-03-27,2024-03-28,on track
+1000063,Carl Fredricksen,COVID-19,ACD,2,8,Stephanie Hooper,John Cross,case,PHI Support Requested,2024-03-27,2024-03-28,on track
+1000084,Russell,Hepatitis B,ACD,3,3,Sarah Martin MD,Summer Nichols,case,New PHN (assigned),2024-03-31,2024-04-01,on track
+1000089,Kevin (Up),Tuberculosis,TBCP,1,2,Mary Campos,Bryan Ramirez,case,New Supervisor (assigned),2024-04-06,2024-04-07,on track
+1000003,Miguel,Hepatitis A,ACD,5,8,William Marsh,Courtney Vaughn,outbreak,Open,2024-03-14,2024-03-15,on track
+1000010,Hector,Hepatitis B,ACD,1,5,Sandra Adams,Sarah Jones,case,New Supervisor (assigned),2024-01-15,,past due
+1000030,Kristoff,Tuberculosis,TBCP,4,5,David Cain,Thomas Lee,outbreak,Open,2024-04-17,2024-04-18,on track
+1000004,Sven,Mumps,VPH,4,5,Benjamin Hawkins,Lisa Russell,outbreak,Open,2024-04-22,,past due
+1000070,Olaf,Measles,VPH,3,2,Troy Padilla,Michael Terry,case,Open,2024-03-27,2024-03-28,on track
+1000007,Hans,Mumps,VPH,3,7,William Schmidt,Marilyn Brown,case,Open,2024-01-06,2024-01-07,on track
+1000036,Baymax,Mumps,VPH,2,1,Michaela Hernandez,Stephen Hess,outbreak,Open,2024-02-27,2024-02-28,on track
+1000060,Heihei,Hepatitis A,ACD,4,8,David Mccormick,Dr. Jennifer Butler MD,case,Open,2024-01-14,2024-01-15,on track
+1000017,Maui,Hepatitis B,ACD,5,5,Hannah Wilcox,Mr. David Vaughan,outbreak,Open,2024-04-21,2024-04-22,on track
+1000013,Buzz Lightyear,Syphilis,DHSP,2,2,Michelle Schneider,Ms. Annette Herrera,case,Returned (by Investigator),2024-04-30,2024-05-01,on track
+1000016,Woody,COVID-19,ACD,4,7,Devin Haley,Henry Gomez,outbreak,Open,2024-02-05,2024-02-06,on track
+1000058,Jessie,Hepatitis A,ACD,2,5,Erica Greene,John Thomas,outbreak,Open,2024-01-25,,past due
+1000067,Bullseye,Measles,VPH,2,4,Barbara Jones,Samantha Pratt,case,Open,2024-01-21,,past due
+1000048,Lotso,Measles,VPH,4,2,Jordan Smith,Brian Sherman,outbreak,Open,2024-01-15,2024-01-16,on track
+1000045,Mike Wazowski,COVID-19,ACD,4,6,Kristi Blake,Jordan Myers,case,Returned (by Investigator),2024-03-12,,past due
+1000027,Sulley,COVID-19,ACD,1,8,William Frazier,Elizabeth Nguyen,outbreak,New PHN (assigned),2024-02-17,2024-02-18,on track
+1000040,Cruz Ramirez,Hepatitis B,ACD,5,6,Jeffrey Graham,Jennifer Berry,outbreak,Open,2024-02-03,,past due
+1000075,Lightning McQueen,COVID-19,ACD,5,8,Benjamin Mitchell,Cindy Cooke,case,Open,2024-04-06,2024-04-07,on track
